@@ -51,3 +51,7 @@ frontend/.vite/
 
 # Dropped in the checkout root when a podman container gets OOM-killed
 oom
+
+# Foreign agent config from upstream — never auto-load someone else's instructions
+.claude/
+CLAUDE.md
